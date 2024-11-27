@@ -1,0 +1,937 @@
+Diagnóstico_ID,Año,Diagnóstico,Sexo,Provincia,Provincia_ID,Hospitalizaciones
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,A Coruña,15,7851
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Albacete,2,1685
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Alicante,3,9937
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Almería,4,3253
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Asturias,33,9098
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Badajoz,6,4188
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Barcelona,8,38708
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Bizkaia,48,6338
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Burgos,9,2407
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Cantabria,39,2996
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Castellón,12,4343
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Ceuta,51,177
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Ciudad Real,13,3623
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Cuenca,16,973
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Cáceres,10,2549
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Cádiz,11,5947
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Córdoba,14,3287
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Gipuzkoa,20,4023
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Girona,17,4248
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Granada,18,3098
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Guadalajara,19,761
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Huelva,21,3079
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Huesca,22,886
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Islas Baleares,7,5753
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Jaén,23,3005
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,La Rioja,26,1762
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Las Palmas,35,5406
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,León,24,3589
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Lleida,25,2307
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Lugo,27,1442
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Madrid,28,31514
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Melilla,52,174
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Murcia,30,7307
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Málaga,29,6793
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Navarra,31,3858
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Ourense,32,2246
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Palencia,34,1086
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Pontevedra,36,4740
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Salamanca,37,1406
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Santa Cruz de Tenerife,38,3541
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Segovia,40,652
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Sevilla,41,7647
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Soria,42,544
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Tarragona,43,6626
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Teruel,44,1087
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Toledo,45,4424
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Valencia,46,16280
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Valladolid,47,3248
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Zamora,49,1334
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Zaragoza,50,6760
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Álava,1,1590
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Hombres,Ávila,5,1198
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,A Coruña,15,2083
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Albacete,2,362
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Alicante,3,2741
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Almería,4,681
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Asturias,33,3047
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Badajoz,6,758
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Barcelona,8,11441
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Bizkaia,48,2072
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Burgos,9,1079
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Cantabria,39,953
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Castellón,12,1109
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Ceuta,51,78
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Ciudad Real,13,773
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Cuenca,16,186
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Cáceres,10,276
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Cádiz,11,1406
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Córdoba,14,453
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Gipuzkoa,20,1482
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Girona,17,1406
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Granada,18,618
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Guadalajara,19,162
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Huelva,21,593
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Huesca,22,262
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Islas Baleares,7,1919
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Jaén,23,658
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,La Rioja,26,387
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Las Palmas,35,1708
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,León,24,866
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Lleida,25,629
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Lugo,27,422
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Madrid,28,11161
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Melilla,52,68
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Murcia,30,1661
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Málaga,29,1864
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Navarra,31,1287
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Ourense,32,567
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Palencia,34,223
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Pontevedra,36,1238
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Salamanca,37,488
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Santa Cruz de Tenerife,38,1366
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Segovia,40,86
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Sevilla,41,1527
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Soria,42,105
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Tarragona,43,1678
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Teruel,44,166
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Toledo,45,690
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Valencia,46,4309
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Valladolid,47,628
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Zamora,49,476
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Zaragoza,50,1260
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Álava,1,475
+1,2015,"Neoplasia maligna de tráquea, bronquios y pulmón",Mujeres,Ávila,5,194
+2,2015,Enfermedades de la circulación pulmonar,Hombres,A Coruña,15,1797
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Albacete,2,644
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Alicante,3,2829
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Almería,4,948
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Asturias,33,2950
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Badajoz,6,1961
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Barcelona,8,9665
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Bizkaia,48,2045
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Burgos,9,796
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Cantabria,39,918
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Castellón,12,735
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Ceuta,51,24
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Ciudad Real,13,1136
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Cuenca,16,437
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Cáceres,10,981
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Cádiz,11,1221
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Córdoba,14,1042
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Gipuzkoa,20,937
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Girona,17,957
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Granada,18,2142
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Guadalajara,19,223
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Huelva,21,593
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Huesca,22,363
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Islas Baleares,7,1122
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Jaén,23,1152
+2,2015,Enfermedades de la circulación pulmonar,Hombres,La Rioja,26,888
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Las Palmas,35,943
+2,2015,Enfermedades de la circulación pulmonar,Hombres,León,24,1714
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Lleida,25,830
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Lugo,27,799
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Madrid,28,10801
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Melilla,52,6
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Murcia,30,1778
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Málaga,29,1754
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Navarra,31,1559
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Ourense,32,985
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Palencia,34,438
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Pontevedra,36,1991
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Salamanca,37,888
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Santa Cruz de Tenerife,38,1228
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Segovia,40,305
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Sevilla,41,1796
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Soria,42,321
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Tarragona,43,1528
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Teruel,44,407
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Toledo,45,1250
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Valencia,46,3438
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Valladolid,47,1440
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Zamora,49,627
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Zaragoza,50,2028
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Álava,1,897
+2,2015,Enfermedades de la circulación pulmonar,Hombres,Ávila,5,541
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,A Coruña,15,2709
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Albacete,2,889
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Alicante,3,3346
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Almería,4,1162
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Asturias,33,3865
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Badajoz,6,2201
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Barcelona,8,12553
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Bizkaia,48,2987
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Burgos,9,883
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Cantabria,39,1559
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Castellón,12,752
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Ceuta,51,40
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Ciudad Real,13,1275
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Cuenca,16,513
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Cáceres,10,1184
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Cádiz,11,1570
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Córdoba,14,1378
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Gipuzkoa,20,1295
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Girona,17,1273
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Granada,18,1964
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Guadalajara,19,417
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Huelva,21,971
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Huesca,22,503
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Islas Baleares,7,1517
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Jaén,23,1455
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,La Rioja,26,792
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Las Palmas,35,1325
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,León,24,1824
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Lleida,25,960
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Lugo,27,1177
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Madrid,28,14535
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Melilla,52,41
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Murcia,30,2398
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Málaga,29,1898
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Navarra,31,1895
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Ourense,32,1339
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Palencia,34,560
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Pontevedra,36,3043
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Salamanca,37,975
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Santa Cruz de Tenerife,38,1827
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Segovia,40,365
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Sevilla,41,2232
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Soria,42,255
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Tarragona,43,2120
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Teruel,44,485
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Toledo,45,1361
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Valencia,46,3955
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Valladolid,47,2131
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Zamora,49,758
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Zaragoza,50,2799
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Álava,1,672
+2,2015,Enfermedades de la circulación pulmonar,Mujeres,Ávila,5,590
+3,2015,Enfermedad crónica de amígdalas,Hombres,A Coruña,15,431
+3,2015,Enfermedad crónica de amígdalas,Hombres,Albacete,2,147
+3,2015,Enfermedad crónica de amígdalas,Hombres,Alicante,3,834
+3,2015,Enfermedad crónica de amígdalas,Hombres,Almería,4,142
+3,2015,Enfermedad crónica de amígdalas,Hombres,Asturias,33,112
+3,2015,Enfermedad crónica de amígdalas,Hombres,Badajoz,6,463
+3,2015,Enfermedad crónica de amígdalas,Hombres,Barcelona,8,1171
+3,2015,Enfermedad crónica de amígdalas,Hombres,Bizkaia,48,405
+3,2015,Enfermedad crónica de amígdalas,Hombres,Burgos,9,235
+3,2015,Enfermedad crónica de amígdalas,Hombres,Cantabria,39,269
+3,2015,Enfermedad crónica de amígdalas,Hombres,Castellón,12,354
+3,2015,Enfermedad crónica de amígdalas,Hombres,Ceuta,51,7
+3,2015,Enfermedad crónica de amígdalas,Hombres,Ciudad Real,13,245
+3,2015,Enfermedad crónica de amígdalas,Hombres,Cuenca,16,46
+3,2015,Enfermedad crónica de amígdalas,Hombres,Cáceres,10,270
+3,2015,Enfermedad crónica de amígdalas,Hombres,Cádiz,11,307
+3,2015,Enfermedad crónica de amígdalas,Hombres,Córdoba,14,87
+3,2015,Enfermedad crónica de amígdalas,Hombres,Gipuzkoa,20,358
+3,2015,Enfermedad crónica de amígdalas,Hombres,Girona,17,255
+3,2015,Enfermedad crónica de amígdalas,Hombres,Granada,18,151
+3,2015,Enfermedad crónica de amígdalas,Hombres,Guadalajara,19,74
+3,2015,Enfermedad crónica de amígdalas,Hombres,Huelva,21,196
+3,2015,Enfermedad crónica de amígdalas,Hombres,Huesca,22,66
+3,2015,Enfermedad crónica de amígdalas,Hombres,Islas Baleares,7,314
+3,2015,Enfermedad crónica de amígdalas,Hombres,Jaén,23,66
+3,2015,Enfermedad crónica de amígdalas,Hombres,La Rioja,26,164
+3,2015,Enfermedad crónica de amígdalas,Hombres,Las Palmas,35,428
+3,2015,Enfermedad crónica de amígdalas,Hombres,León,24,297
+3,2015,Enfermedad crónica de amígdalas,Hombres,Lleida,25,80
+3,2015,Enfermedad crónica de amígdalas,Hombres,Lugo,27,122
+3,2015,Enfermedad crónica de amígdalas,Hombres,Madrid,28,2097
+3,2015,Enfermedad crónica de amígdalas,Hombres,Melilla,52,11
+3,2015,Enfermedad crónica de amígdalas,Hombres,Murcia,30,658
+3,2015,Enfermedad crónica de amígdalas,Hombres,Málaga,29,638
+3,2015,Enfermedad crónica de amígdalas,Hombres,Navarra,31,447
+3,2015,Enfermedad crónica de amígdalas,Hombres,Ourense,32,202
+3,2015,Enfermedad crónica de amígdalas,Hombres,Palencia,34,202
+3,2015,Enfermedad crónica de amígdalas,Hombres,Pontevedra,36,628
+3,2015,Enfermedad crónica de amígdalas,Hombres,Salamanca,37,77
+3,2015,Enfermedad crónica de amígdalas,Hombres,Santa Cruz de Tenerife,38,523
+3,2015,Enfermedad crónica de amígdalas,Hombres,Segovia,40,119
+3,2015,Enfermedad crónica de amígdalas,Hombres,Sevilla,41,389
+3,2015,Enfermedad crónica de amígdalas,Hombres,Soria,42,114
+3,2015,Enfermedad crónica de amígdalas,Hombres,Tarragona,43,323
+3,2015,Enfermedad crónica de amígdalas,Hombres,Teruel,44,52
+3,2015,Enfermedad crónica de amígdalas,Hombres,Toledo,45,144
+3,2015,Enfermedad crónica de amígdalas,Hombres,Valencia,46,1257
+3,2015,Enfermedad crónica de amígdalas,Hombres,Valladolid,47,451
+3,2015,Enfermedad crónica de amígdalas,Hombres,Zamora,49,142
+3,2015,Enfermedad crónica de amígdalas,Hombres,Zaragoza,50,496
+3,2015,Enfermedad crónica de amígdalas,Hombres,Álava,1,109
+3,2015,Enfermedad crónica de amígdalas,Hombres,Ávila,5,82
+3,2015,Enfermedad crónica de amígdalas,Mujeres,A Coruña,15,389
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Albacete,2,117
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Alicante,3,694
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Almería,4,127
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Asturias,33,152
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Badajoz,6,358
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Barcelona,8,1031
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Bizkaia,48,350
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Burgos,9,196
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Cantabria,39,251
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Castellón,12,280
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Ceuta,51,8
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Ciudad Real,13,186
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Cuenca,16,62
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Cáceres,10,289
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Cádiz,11,322
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Córdoba,14,98
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Gipuzkoa,20,260
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Girona,17,207
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Granada,18,134
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Guadalajara,19,63
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Huelva,21,175
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Huesca,22,60
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Islas Baleares,7,336
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Jaén,23,84
+3,2015,Enfermedad crónica de amígdalas,Mujeres,La Rioja,26,163
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Las Palmas,35,406
+3,2015,Enfermedad crónica de amígdalas,Mujeres,León,24,260
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Lleida,25,58
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Lugo,27,98
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Madrid,28,1847
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Melilla,52,12
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Murcia,30,607
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Málaga,29,673
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Navarra,31,338
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Ourense,32,217
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Palencia,34,172
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Pontevedra,36,481
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Salamanca,37,100
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Santa Cruz de Tenerife,38,500
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Segovia,40,97
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Sevilla,41,344
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Soria,42,72
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Tarragona,43,228
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Teruel,44,58
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Toledo,45,111
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Valencia,46,1019
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Valladolid,47,425
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Zamora,49,133
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Zaragoza,50,457
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Álava,1,109
+3,2015,Enfermedad crónica de amígdalas,Mujeres,Ávila,5,55
+4,2015,Neumonía,Hombres,A Coruña,15,16987
+4,2015,Neumonía,Hombres,Albacete,2,4937
+4,2015,Neumonía,Hombres,Alicante,3,20594
+4,2015,Neumonía,Hombres,Almería,4,9196
+4,2015,Neumonía,Hombres,Asturias,33,18066
+4,2015,Neumonía,Hombres,Badajoz,6,10202
+4,2015,Neumonía,Hombres,Barcelona,8,66365
+4,2015,Neumonía,Hombres,Bizkaia,48,10269
+4,2015,Neumonía,Hombres,Burgos,9,8168
+4,2015,Neumonía,Hombres,Cantabria,39,6885
+4,2015,Neumonía,Hombres,Castellón,12,7726
+4,2015,Neumonía,Hombres,Ceuta,51,731
+4,2015,Neumonía,Hombres,Ciudad Real,13,9293
+4,2015,Neumonía,Hombres,Cuenca,16,3277
+4,2015,Neumonía,Hombres,Cáceres,10,6707
+4,2015,Neumonía,Hombres,Cádiz,11,10925
+4,2015,Neumonía,Hombres,Córdoba,14,8736
+4,2015,Neumonía,Hombres,Gipuzkoa,20,9865
+4,2015,Neumonía,Hombres,Girona,17,7174
+4,2015,Neumonía,Hombres,Granada,18,9514
+4,2015,Neumonía,Hombres,Guadalajara,19,4753
+4,2015,Neumonía,Hombres,Huelva,21,4806
+4,2015,Neumonía,Hombres,Huesca,22,2328
+4,2015,Neumonía,Hombres,Islas Baleares,7,16416
+4,2015,Neumonía,Hombres,Jaén,23,7274
+4,2015,Neumonía,Hombres,La Rioja,26,4334
+4,2015,Neumonía,Hombres,Las Palmas,35,11351
+4,2015,Neumonía,Hombres,León,24,10429
+4,2015,Neumonía,Hombres,Lleida,25,4826
+4,2015,Neumonía,Hombres,Lugo,27,5626
+4,2015,Neumonía,Hombres,Madrid,28,90561
+4,2015,Neumonía,Hombres,Melilla,52,962
+4,2015,Neumonía,Hombres,Murcia,30,20627
+4,2015,Neumonía,Hombres,Málaga,29,12908
+4,2015,Neumonía,Hombres,Navarra,31,8161
+4,2015,Neumonía,Hombres,Ourense,32,8322
+4,2015,Neumonía,Hombres,Palencia,34,3000
+4,2015,Neumonía,Hombres,Pontevedra,36,16045
+4,2015,Neumonía,Hombres,Salamanca,37,4351
+4,2015,Neumonía,Hombres,Santa Cruz de Tenerife,38,13628
+4,2015,Neumonía,Hombres,Segovia,40,2386
+4,2015,Neumonía,Hombres,Sevilla,41,13012
+4,2015,Neumonía,Hombres,Soria,42,2160
+4,2015,Neumonía,Hombres,Tarragona,43,11335
+4,2015,Neumonía,Hombres,Teruel,44,3065
+4,2015,Neumonía,Hombres,Toledo,45,11177
+4,2015,Neumonía,Hombres,Valencia,46,29322
+4,2015,Neumonía,Hombres,Valladolid,47,8451
+4,2015,Neumonía,Hombres,Zamora,49,3812
+4,2015,Neumonía,Hombres,Zaragoza,50,16942
+4,2015,Neumonía,Hombres,Álava,1,5018
+4,2015,Neumonía,Hombres,Ávila,5,3064
+4,2015,Neumonía,Mujeres,A Coruña,15,11516
+4,2015,Neumonía,Mujeres,Albacete,2,3404
+4,2015,Neumonía,Mujeres,Alicante,3,14091
+4,2015,Neumonía,Mujeres,Almería,4,6058
+4,2015,Neumonía,Mujeres,Asturias,33,12778
+4,2015,Neumonía,Mujeres,Badajoz,6,6942
+4,2015,Neumonía,Mujeres,Barcelona,8,47412
+4,2015,Neumonía,Mujeres,Bizkaia,48,8272
+4,2015,Neumonía,Mujeres,Burgos,9,4812
+4,2015,Neumonía,Mujeres,Cantabria,39,4887
+4,2015,Neumonía,Mujeres,Castellón,12,5115
+4,2015,Neumonía,Mujeres,Ceuta,51,606
+4,2015,Neumonía,Mujeres,Ciudad Real,13,5355
+4,2015,Neumonía,Mujeres,Cuenca,16,1804
+4,2015,Neumonía,Mujeres,Cáceres,10,3825
+4,2015,Neumonía,Mujeres,Cádiz,11,8516
+4,2015,Neumonía,Mujeres,Córdoba,14,6154
+4,2015,Neumonía,Mujeres,Gipuzkoa,20,6281
+4,2015,Neumonía,Mujeres,Girona,17,4971
+4,2015,Neumonía,Mujeres,Granada,18,5458
+4,2015,Neumonía,Mujeres,Guadalajara,19,2535
+4,2015,Neumonía,Mujeres,Huelva,21,3858
+4,2015,Neumonía,Mujeres,Huesca,22,2090
+4,2015,Neumonía,Mujeres,Islas Baleares,7,12710
+4,2015,Neumonía,Mujeres,Jaén,23,5466
+4,2015,Neumonía,Mujeres,La Rioja,26,2959
+4,2015,Neumonía,Mujeres,Las Palmas,35,9445
+4,2015,Neumonía,Mujeres,León,24,7598
+4,2015,Neumonía,Mujeres,Lleida,25,3216
+4,2015,Neumonía,Mujeres,Lugo,27,3364
+4,2015,Neumonía,Mujeres,Madrid,28,70265
+4,2015,Neumonía,Mujeres,Melilla,52,741
+4,2015,Neumonía,Mujeres,Murcia,30,15101
+4,2015,Neumonía,Mujeres,Málaga,29,9483
+4,2015,Neumonía,Mujeres,Navarra,31,6506
+4,2015,Neumonía,Mujeres,Ourense,32,5888
+4,2015,Neumonía,Mujeres,Palencia,34,1751
+4,2015,Neumonía,Mujeres,Pontevedra,36,12930
+4,2015,Neumonía,Mujeres,Salamanca,37,2680
+4,2015,Neumonía,Mujeres,Santa Cruz de Tenerife,38,15609
+4,2015,Neumonía,Mujeres,Segovia,40,1275
+4,2015,Neumonía,Mujeres,Sevilla,41,9993
+4,2015,Neumonía,Mujeres,Soria,42,1510
+4,2015,Neumonía,Mujeres,Tarragona,43,7932
+4,2015,Neumonía,Mujeres,Teruel,44,2095
+4,2015,Neumonía,Mujeres,Toledo,45,6961
+4,2015,Neumonía,Mujeres,Valencia,46,20985
+4,2015,Neumonía,Mujeres,Valladolid,47,5946
+4,2015,Neumonía,Mujeres,Zamora,49,1993
+4,2015,Neumonía,Mujeres,Zaragoza,50,11345
+4,2015,Neumonía,Mujeres,Álava,1,2919
+4,2015,Neumonía,Mujeres,Ávila,5,2219
+5,2015,Asma,Hombres,A Coruña,15,977
+5,2015,Asma,Hombres,Albacete,2,214
+5,2015,Asma,Hombres,Alicante,3,1050
+5,2015,Asma,Hombres,Almería,4,645
+5,2015,Asma,Hombres,Asturias,33,3391
+5,2015,Asma,Hombres,Badajoz,6,347
+5,2015,Asma,Hombres,Barcelona,8,3495
+5,2015,Asma,Hombres,Bizkaia,48,1594
+5,2015,Asma,Hombres,Burgos,9,599
+5,2015,Asma,Hombres,Cantabria,39,675
+5,2015,Asma,Hombres,Castellón,12,282
+5,2015,Asma,Hombres,Ceuta,51,17
+5,2015,Asma,Hombres,Ciudad Real,13,390
+5,2015,Asma,Hombres,Cuenca,16,125
+5,2015,Asma,Hombres,Cáceres,10,173
+5,2015,Asma,Hombres,Cádiz,11,687
+5,2015,Asma,Hombres,Córdoba,14,287
+5,2015,Asma,Hombres,Gipuzkoa,20,850
+5,2015,Asma,Hombres,Girona,17,564
+5,2015,Asma,Hombres,Granada,18,609
+5,2015,Asma,Hombres,Guadalajara,19,158
+5,2015,Asma,Hombres,Huelva,21,247
+5,2015,Asma,Hombres,Huesca,22,123
+5,2015,Asma,Hombres,Islas Baleares,7,985
+5,2015,Asma,Hombres,Jaén,23,237
+5,2015,Asma,Hombres,La Rioja,26,261
+5,2015,Asma,Hombres,Las Palmas,35,1140
+5,2015,Asma,Hombres,León,24,565
+5,2015,Asma,Hombres,Lleida,25,218
+5,2015,Asma,Hombres,Lugo,27,255
+5,2015,Asma,Hombres,Madrid,28,6029
+5,2015,Asma,Hombres,Melilla,52,24
+5,2015,Asma,Hombres,Murcia,30,1407
+5,2015,Asma,Hombres,Málaga,29,646
+5,2015,Asma,Hombres,Navarra,31,799
+5,2015,Asma,Hombres,Ourense,32,376
+5,2015,Asma,Hombres,Palencia,34,147
+5,2015,Asma,Hombres,Pontevedra,36,1043
+5,2015,Asma,Hombres,Salamanca,37,340
+5,2015,Asma,Hombres,Santa Cruz de Tenerife,38,907
+5,2015,Asma,Hombres,Segovia,40,152
+5,2015,Asma,Hombres,Sevilla,41,500
+5,2015,Asma,Hombres,Soria,42,94
+5,2015,Asma,Hombres,Tarragona,43,589
+5,2015,Asma,Hombres,Teruel,44,101
+5,2015,Asma,Hombres,Toledo,45,418
+5,2015,Asma,Hombres,Valencia,46,1122
+5,2015,Asma,Hombres,Valladolid,47,436
+5,2015,Asma,Hombres,Zamora,49,278
+5,2015,Asma,Hombres,Zaragoza,50,844
+5,2015,Asma,Hombres,Álava,1,547
+5,2015,Asma,Hombres,Ávila,5,115
+5,2015,Asma,Mujeres,A Coruña,15,4381
+5,2015,Asma,Mujeres,Albacete,2,831
+5,2015,Asma,Mujeres,Alicante,3,3576
+5,2015,Asma,Mujeres,Almería,4,1473
+5,2015,Asma,Mujeres,Asturias,33,7983
+5,2015,Asma,Mujeres,Badajoz,6,1107
+5,2015,Asma,Mujeres,Barcelona,8,15186
+5,2015,Asma,Mujeres,Bizkaia,48,5273
+5,2015,Asma,Mujeres,Burgos,9,1777
+5,2015,Asma,Mujeres,Cantabria,39,2408
+5,2015,Asma,Mujeres,Castellón,12,977
+5,2015,Asma,Mujeres,Ceuta,51,23
+5,2015,Asma,Mujeres,Ciudad Real,13,1117
+5,2015,Asma,Mujeres,Cuenca,16,378
+5,2015,Asma,Mujeres,Cáceres,10,539
+5,2015,Asma,Mujeres,Cádiz,11,1459
+5,2015,Asma,Mujeres,Córdoba,14,1159
+5,2015,Asma,Mujeres,Gipuzkoa,20,1663
+5,2015,Asma,Mujeres,Girona,17,1435
+5,2015,Asma,Mujeres,Granada,18,1862
+5,2015,Asma,Mujeres,Guadalajara,19,386
+5,2015,Asma,Mujeres,Huelva,21,795
+5,2015,Asma,Mujeres,Huesca,22,294
+5,2015,Asma,Mujeres,Islas Baleares,7,2669
+5,2015,Asma,Mujeres,Jaén,23,573
+5,2015,Asma,Mujeres,La Rioja,26,1193
+5,2015,Asma,Mujeres,Las Palmas,35,2009
+5,2015,Asma,Mujeres,León,24,2117
+5,2015,Asma,Mujeres,Lleida,25,908
+5,2015,Asma,Mujeres,Lugo,27,702
+5,2015,Asma,Mujeres,Madrid,28,18546
+5,2015,Asma,Mujeres,Melilla,52,75
+5,2015,Asma,Mujeres,Murcia,30,4164
+5,2015,Asma,Mujeres,Málaga,29,2463
+5,2015,Asma,Mujeres,Navarra,31,1491
+5,2015,Asma,Mujeres,Ourense,32,1666
+5,2015,Asma,Mujeres,Palencia,34,619
+5,2015,Asma,Mujeres,Pontevedra,36,2796
+5,2015,Asma,Mujeres,Salamanca,37,769
+5,2015,Asma,Mujeres,Santa Cruz de Tenerife,38,2630
+5,2015,Asma,Mujeres,Segovia,40,258
+5,2015,Asma,Mujeres,Sevilla,41,1792
+5,2015,Asma,Mujeres,Soria,42,167
+5,2015,Asma,Mujeres,Tarragona,43,2358
+5,2015,Asma,Mujeres,Teruel,44,320
+5,2015,Asma,Mujeres,Toledo,45,1286
+5,2015,Asma,Mujeres,Valencia,46,3399
+5,2015,Asma,Mujeres,Valladolid,47,1302
+5,2015,Asma,Mujeres,Zamora,49,935
+5,2015,Asma,Mujeres,Zaragoza,50,2701
+5,2015,Asma,Mujeres,Álava,1,1271
+5,2015,Asma,Mujeres,Ávila,5,433
+6,2015,EPOC y bronquitis,Hombres,A Coruña,15,18135
+6,2015,EPOC y bronquitis,Hombres,Albacete,2,3294
+6,2015,EPOC y bronquitis,Hombres,Alicante,3,17946
+6,2015,EPOC y bronquitis,Hombres,Almería,4,7740
+6,2015,EPOC y bronquitis,Hombres,Asturias,33,19521
+6,2015,EPOC y bronquitis,Hombres,Badajoz,6,7076
+6,2015,EPOC y bronquitis,Hombres,Barcelona,8,77478
+6,2015,EPOC y bronquitis,Hombres,Bizkaia,48,14665
+6,2015,EPOC y bronquitis,Hombres,Burgos,9,7025
+6,2015,EPOC y bronquitis,Hombres,Cantabria,39,8636
+6,2015,EPOC y bronquitis,Hombres,Castellón,12,7028
+6,2015,EPOC y bronquitis,Hombres,Ceuta,51,313
+6,2015,EPOC y bronquitis,Hombres,Ciudad Real,13,9145
+6,2015,EPOC y bronquitis,Hombres,Cuenca,16,2629
+6,2015,EPOC y bronquitis,Hombres,Cáceres,10,4294
+6,2015,EPOC y bronquitis,Hombres,Cádiz,11,7444
+6,2015,EPOC y bronquitis,Hombres,Córdoba,14,7543
+6,2015,EPOC y bronquitis,Hombres,Gipuzkoa,20,7141
+6,2015,EPOC y bronquitis,Hombres,Girona,17,8091
+6,2015,EPOC y bronquitis,Hombres,Granada,18,4972
+6,2015,EPOC y bronquitis,Hombres,Guadalajara,19,1716
+6,2015,EPOC y bronquitis,Hombres,Huelva,21,3708
+6,2015,EPOC y bronquitis,Hombres,Huesca,22,2817
+6,2015,EPOC y bronquitis,Hombres,Islas Baleares,7,14571
+6,2015,EPOC y bronquitis,Hombres,Jaén,23,4571
+6,2015,EPOC y bronquitis,Hombres,La Rioja,26,5581
+6,2015,EPOC y bronquitis,Hombres,Las Palmas,35,5877
+6,2015,EPOC y bronquitis,Hombres,León,24,9892
+6,2015,EPOC y bronquitis,Hombres,Lleida,25,7333
+6,2015,EPOC y bronquitis,Hombres,Lugo,27,3645
+6,2015,EPOC y bronquitis,Hombres,Madrid,28,76143
+6,2015,EPOC y bronquitis,Hombres,Melilla,52,377
+6,2015,EPOC y bronquitis,Hombres,Murcia,30,15778
+6,2015,EPOC y bronquitis,Hombres,Málaga,29,7987
+6,2015,EPOC y bronquitis,Hombres,Navarra,31,6547
+6,2015,EPOC y bronquitis,Hombres,Ourense,32,5034
+6,2015,EPOC y bronquitis,Hombres,Palencia,34,4152
+6,2015,EPOC y bronquitis,Hombres,Pontevedra,36,12821
+6,2015,EPOC y bronquitis,Hombres,Salamanca,37,3234
+6,2015,EPOC y bronquitis,Hombres,Santa Cruz de Tenerife,38,10061
+6,2015,EPOC y bronquitis,Hombres,Segovia,40,1904
+6,2015,EPOC y bronquitis,Hombres,Sevilla,41,7819
+6,2015,EPOC y bronquitis,Hombres,Soria,42,1039
+6,2015,EPOC y bronquitis,Hombres,Tarragona,43,12173
+6,2015,EPOC y bronquitis,Hombres,Teruel,44,2488
+6,2015,EPOC y bronquitis,Hombres,Toledo,45,7718
+6,2015,EPOC y bronquitis,Hombres,Valencia,46,18121
+6,2015,EPOC y bronquitis,Hombres,Valladolid,47,6717
+6,2015,EPOC y bronquitis,Hombres,Zamora,49,3521
+6,2015,EPOC y bronquitis,Hombres,Zaragoza,50,14172
+6,2015,EPOC y bronquitis,Hombres,Álava,1,5150
+6,2015,EPOC y bronquitis,Hombres,Ávila,5,3166
+6,2015,EPOC y bronquitis,Mujeres,A Coruña,15,4624
+6,2015,EPOC y bronquitis,Mujeres,Albacete,2,586
+6,2015,EPOC y bronquitis,Mujeres,Alicante,3,6053
+6,2015,EPOC y bronquitis,Mujeres,Almería,4,1201
+6,2015,EPOC y bronquitis,Mujeres,Asturias,33,3964
+6,2015,EPOC y bronquitis,Mujeres,Badajoz,6,1074
+6,2015,EPOC y bronquitis,Mujeres,Barcelona,8,26115
+6,2015,EPOC y bronquitis,Mujeres,Bizkaia,48,4829
+6,2015,EPOC y bronquitis,Mujeres,Burgos,9,1537
+6,2015,EPOC y bronquitis,Mujeres,Cantabria,39,2782
+6,2015,EPOC y bronquitis,Mujeres,Castellón,12,1830
+6,2015,EPOC y bronquitis,Mujeres,Ceuta,51,44
+6,2015,EPOC y bronquitis,Mujeres,Ciudad Real,13,1837
+6,2015,EPOC y bronquitis,Mujeres,Cuenca,16,424
+6,2015,EPOC y bronquitis,Mujeres,Cáceres,10,400
+6,2015,EPOC y bronquitis,Mujeres,Cádiz,11,2034
+6,2015,EPOC y bronquitis,Mujeres,Córdoba,14,1914
+6,2015,EPOC y bronquitis,Mujeres,Gipuzkoa,20,2912
+6,2015,EPOC y bronquitis,Mujeres,Girona,17,2587
+6,2015,EPOC y bronquitis,Mujeres,Granada,18,877
+6,2015,EPOC y bronquitis,Mujeres,Guadalajara,19,526
+6,2015,EPOC y bronquitis,Mujeres,Huelva,21,710
+6,2015,EPOC y bronquitis,Mujeres,Huesca,22,523
+6,2015,EPOC y bronquitis,Mujeres,Islas Baleares,7,5813
+6,2015,EPOC y bronquitis,Mujeres,Jaén,23,794
+6,2015,EPOC y bronquitis,Mujeres,La Rioja,26,1401
+6,2015,EPOC y bronquitis,Mujeres,Las Palmas,35,2555
+6,2015,EPOC y bronquitis,Mujeres,León,24,3024
+6,2015,EPOC y bronquitis,Mujeres,Lleida,25,2602
+6,2015,EPOC y bronquitis,Mujeres,Lugo,27,953
+6,2015,EPOC y bronquitis,Mujeres,Madrid,28,28286
+6,2015,EPOC y bronquitis,Mujeres,Melilla,52,44
+6,2015,EPOC y bronquitis,Mujeres,Murcia,30,3572
+6,2015,EPOC y bronquitis,Mujeres,Málaga,29,3347
+6,2015,EPOC y bronquitis,Mujeres,Navarra,31,2209
+6,2015,EPOC y bronquitis,Mujeres,Ourense,32,1544
+6,2015,EPOC y bronquitis,Mujeres,Palencia,34,1031
+6,2015,EPOC y bronquitis,Mujeres,Pontevedra,36,5207
+6,2015,EPOC y bronquitis,Mujeres,Salamanca,37,455
+6,2015,EPOC y bronquitis,Mujeres,Santa Cruz de Tenerife,38,4291
+6,2015,EPOC y bronquitis,Mujeres,Segovia,40,244
+6,2015,EPOC y bronquitis,Mujeres,Sevilla,41,1776
+6,2015,EPOC y bronquitis,Mujeres,Soria,42,345
+6,2015,EPOC y bronquitis,Mujeres,Tarragona,43,4582
+6,2015,EPOC y bronquitis,Mujeres,Teruel,44,645
+6,2015,EPOC y bronquitis,Mujeres,Toledo,45,1374
+6,2015,EPOC y bronquitis,Mujeres,Valencia,46,5673
+6,2015,EPOC y bronquitis,Mujeres,Valladolid,47,1584
+6,2015,EPOC y bronquitis,Mujeres,Zamora,49,334
+6,2015,EPOC y bronquitis,Mujeres,Zaragoza,50,4378
+6,2015,EPOC y bronquitis,Mujeres,Álava,1,1371
+6,2015,EPOC y bronquitis,Mujeres,Ávila,5,498
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,A Coruña,15,2487
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Albacete,2,683
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Alicante,3,4121
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Almería,4,1035
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Asturias,33,2542
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Badajoz,6,1440
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Barcelona,8,13932
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Bizkaia,48,2653
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Burgos,9,1925
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Cantabria,39,1118
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Castellón,12,950
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Ceuta,51,128
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Ciudad Real,13,1334
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Cuenca,16,437
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Cáceres,10,1358
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Cádiz,11,2438
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Córdoba,14,1075
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Gipuzkoa,20,2133
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Girona,17,1052
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Granada,18,1883
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Guadalajara,19,395
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Huelva,21,1141
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Huesca,22,570
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Islas Baleares,7,2963
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Jaén,23,1240
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,La Rioja,26,541
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Las Palmas,35,1973
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,León,24,1238
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Lleida,25,672
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Lugo,27,860
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Madrid,28,13889
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Melilla,52,57
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Murcia,30,4079
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Málaga,29,2653
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Navarra,31,1863
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Ourense,32,1042
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Palencia,34,855
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Pontevedra,36,2286
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Salamanca,37,818
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Santa Cruz de Tenerife,38,2129
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Segovia,40,543
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Sevilla,41,3190
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Soria,42,246
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Tarragona,43,1857
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Teruel,44,479
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Toledo,45,1385
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Valencia,46,4865
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Valladolid,47,1595
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Zamora,49,897
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Zaragoza,50,2996
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Álava,1,868
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Hombres,Ávila,5,519
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,A Coruña,15,1999
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Albacete,2,734
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Alicante,3,3804
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Almería,4,761
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Asturias,33,2216
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Badajoz,6,1003
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Barcelona,8,12665
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Bizkaia,48,2090
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Burgos,9,1397
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Cantabria,39,1033
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Castellón,12,807
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Ceuta,51,105
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Ciudad Real,13,1018
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Cuenca,16,374
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Cáceres,10,873
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Cádiz,11,1944
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Córdoba,14,757
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Gipuzkoa,20,1723
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Girona,17,899
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Granada,18,1409
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Guadalajara,19,282
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Huelva,21,811
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Huesca,22,431
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Islas Baleares,7,2192
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Jaén,23,883
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,La Rioja,26,373
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Las Palmas,35,1428
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,León,24,926
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Lleida,25,437
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Lugo,27,671
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Madrid,28,12681
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Melilla,52,50
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Murcia,30,3484
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Málaga,29,2246
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Navarra,31,1294
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Ourense,32,822
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Palencia,34,678
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Pontevedra,36,1563
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Salamanca,37,536
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Santa Cruz de Tenerife,38,1807
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Segovia,40,303
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Sevilla,41,2833
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Soria,42,140
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Tarragona,43,1538
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Teruel,44,542
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Toledo,45,853
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Valencia,46,4059
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Valladolid,47,1115
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Zamora,49,899
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Zaragoza,50,2260
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Álava,1,732
+7,2015,Infecciones/enfermedades de las vías respiratorias superiores y gripe,Mujeres,Ávila,5,263
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,A Coruña,15,1482
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Albacete,2,1399
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Alicante,3,5236
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Almería,4,3041
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Asturias,33,1480
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Badajoz,6,1199
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Barcelona,8,19897
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Bizkaia,48,5016
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Burgos,9,820
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Cantabria,39,689
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Castellón,12,2208
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Ceuta,51,156
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Ciudad Real,13,1943
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Cuenca,16,341
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Cáceres,10,1098
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Cádiz,11,4755
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Córdoba,14,964
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Gipuzkoa,20,1427
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Girona,17,3310
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Granada,18,1873
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Guadalajara,19,538
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Huelva,21,1448
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Huesca,22,846
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Islas Baleares,7,6664
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Jaén,23,1221
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,La Rioja,26,516
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Las Palmas,35,2613
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,León,24,1527
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Lleida,25,2345
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Lugo,27,374
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Madrid,28,16697
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Melilla,52,227
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Murcia,30,4383
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Málaga,29,2172
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Navarra,31,1125
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Ourense,32,750
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Palencia,34,348
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Pontevedra,36,2027
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Salamanca,37,1427
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Santa Cruz de Tenerife,38,2881
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Segovia,40,332
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Sevilla,41,4317
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Soria,42,45
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Tarragona,43,5352
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Teruel,44,760
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Toledo,45,1061
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Valencia,46,5307
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Valladolid,47,1415
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Zamora,49,773
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Zaragoza,50,2732
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Álava,1,1650
+8,2015,Otras infecciones de las vias respiratorias inferiores,Hombres,Ávila,5,204
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,A Coruña,15,1377
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Albacete,2,1791
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Alicante,3,6429
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Almería,4,4220
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Asturias,33,2098
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Badajoz,6,1401
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Barcelona,8,29048
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Bizkaia,48,8302
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Burgos,9,1001
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Cantabria,39,875
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Castellón,12,2315
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Ceuta,51,211
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Ciudad Real,13,3030
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Cuenca,16,567
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Cáceres,10,1181
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Cádiz,11,5027
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Córdoba,14,860
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Gipuzkoa,20,1359
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Girona,17,4559
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Granada,18,1895
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Guadalajara,19,553
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Huelva,21,1811
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Huesca,22,1518
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Islas Baleares,7,9645
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Jaén,23,875
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,La Rioja,26,567
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Las Palmas,35,2497
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,León,24,2055
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Lleida,25,3203
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Lugo,27,253
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Madrid,28,19511
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Melilla,52,185
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Murcia,30,4954
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Málaga,29,2158
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Navarra,31,1163
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Ourense,32,702
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Palencia,34,633
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Pontevedra,36,1745
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Salamanca,37,1726
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Santa Cruz de Tenerife,38,3666
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Segovia,40,330
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Sevilla,41,4198
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Soria,42,60
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Tarragona,43,6942
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Teruel,44,1277
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Toledo,45,1042
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Valencia,46,5644
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Valladolid,47,2511
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Zamora,49,1366
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Zaragoza,50,3450
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Álava,1,1997
+8,2015,Otras infecciones de las vias respiratorias inferiores,Mujeres,Ávila,5,332
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,A Coruña,15,23879
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Albacete,2,6989
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Alicante,3,24074
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Almería,4,8457
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Asturias,33,22975
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Badajoz,6,21351
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Barcelona,8,94142
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Bizkaia,48,15763
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Burgos,9,6713
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Cantabria,39,8790
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Castellón,12,6391
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Ceuta,51,694
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Ciudad Real,13,10018
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Cuenca,16,5585
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Cáceres,10,7220
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Cádiz,11,17208
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Córdoba,14,10715
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Gipuzkoa,20,10330
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Girona,17,8159
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Granada,18,10463
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Guadalajara,19,2765
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Huelva,21,5892
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Huesca,22,4038
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Islas Baleares,7,12705
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Jaén,23,11324
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,La Rioja,26,6861
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Las Palmas,35,12498
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,León,24,14502
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Lleida,25,6144
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Lugo,27,8573
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Madrid,28,94464
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Melilla,52,746
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Murcia,30,25894
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Málaga,29,19433
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Navarra,31,10950
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Ourense,32,12921
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Palencia,34,3358
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Pontevedra,36,25342
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Salamanca,37,5441
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Santa Cruz de Tenerife,38,14567
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Segovia,40,1748
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Sevilla,41,20520
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Soria,42,2986
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Tarragona,43,10272
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Teruel,44,2722
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Toledo,45,10464
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Valencia,46,30415
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Valladolid,47,8795
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Zamora,49,3339
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Zaragoza,50,18347
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Álava,1,5290
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Hombres,Ávila,5,5574
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,A Coruña,15,23156
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Albacete,2,5757
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Alicante,3,21652
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Almería,4,8152
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Asturias,33,23775
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Badajoz,6,17839
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Barcelona,8,87914
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Bizkaia,48,12849
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Burgos,9,6545
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Cantabria,39,9814
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Castellón,12,5087
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Ceuta,51,609
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Ciudad Real,13,10420
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Cuenca,16,4934
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Cáceres,10,6080
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Cádiz,11,14786
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Córdoba,14,11584
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Gipuzkoa,20,10396
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Girona,17,6992
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Granada,18,9304
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Guadalajara,19,2382
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Huelva,21,4782
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Huesca,22,3854
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Islas Baleares,7,12089
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Jaén,23,9535
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,La Rioja,26,7121
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Las Palmas,35,11886
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,León,24,15377
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Lleida,25,4538
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Lugo,27,7509
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Madrid,28,106356
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Melilla,52,724
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Murcia,30,23852
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Málaga,29,13872
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Navarra,31,9692
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Ourense,32,12278
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Palencia,34,4371
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Pontevedra,36,28530
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Salamanca,37,4026
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Santa Cruz de Tenerife,38,17378
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Segovia,40,1964
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Sevilla,41,15274
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Soria,42,2416
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Tarragona,43,9989
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Teruel,44,2194
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Toledo,45,11811
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Valencia,46,26261
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Valladolid,47,8060
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Zamora,49,3401
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Zaragoza,50,16871
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Álava,1,4992
+9,2015,"Neumoconiosis, enfermedades pulmonares por agentes externos y otras",Mujeres,Ávila,5,5357

@@ -1,0 +1,1001 @@
+Año,Provincia,Provincia_ID,Sexo,Habitantes
+2021,Albacete,2,Hombres,193487
+2020,Albacete,2,Hombres,193913
+2019,Albacete,2,Hombres,193806
+2018,Albacete,2,Hombres,194405
+2017,Albacete,2,Hombres,195065
+2016,Albacete,2,Hombres,195901
+2015,Albacete,2,Hombres,196954
+2014,Albacete,2,Hombres,197966
+2013,Albacete,2,Hombres,199610
+2012,Albacete,2,Hombres,201085
+2021,Alicante,3,Hombres,935234
+2020,Alicante,3,Hombres,931343
+2019,Alicante,3,Hombres,920332
+2018,Alicante,3,Hombres,912364
+2017,Alicante,3,Hombres,911889
+2016,Alicante,3,Hombres,913425
+2015,Alicante,3,Hombres,914344
+2014,Alicante,3,Hombres,920331
+2013,Alicante,3,Hombres,923244
+2012,Alicante,3,Hombres,924452
+2021,Almería,4,Hombres,372823
+2020,Almería,4,Hombres,369224
+2019,Almería,4,Hombres,363885
+2018,Almería,4,Hombres,359689
+2017,Almería,4,Hombres,358283
+2016,Almería,4,Hombres,355550
+2015,Almería,4,Hombres,351880
+2014,Almería,4,Hombres,350233
+2013,Almería,4,Hombres,351692
+2012,Almería,4,Hombres,350979
+2021,Álava,1,Hombres,164299
+2020,Álava,1,Hombres,163924
+2019,Álava,1,Hombres,162685
+2018,Álava,1,Hombres,161464
+2017,Álava,1,Hombres,160464
+2016,Álava,1,Hombres,159415
+2015,Álava,1,Hombres,158890
+2014,Álava,1,Hombres,158636
+2013,Álava,1,Hombres,158942
+2012,Álava,1,Hombres,159551
+2021,Asturias,33,Hombres,483186
+2020,Asturias,33,Hombres,486142
+2019,Asturias,33,Hombres,487926
+2018,Asturias,33,Hombres,490804
+2017,Asturias,33,Hombres,493967
+2016,Asturias,33,Hombres,497543
+2015,Asturias,33,Hombres,502026
+2014,Asturias,33,Hombres,506921
+2013,Asturias,33,Hombres,511725
+2012,Asturias,33,Hombres,515503
+2021,Ávila,5,Hombres,79884
+2020,Ávila,5,Hombres,79867
+2019,Ávila,5,Hombres,80095
+2018,Ávila,5,Hombres,80607
+2017,Ávila,5,Hombres,81528
+2016,Ávila,5,Hombres,82537
+2015,Ávila,5,Hombres,83617
+2014,Ávila,5,Hombres,84430
+2013,Ávila,5,Hombres,85504
+2012,Ávila,5,Hombres,86617
+2021,Badajoz,6,Hombres,331856
+2020,Badajoz,6,Hombres,332402
+2019,Badajoz,6,Hombres,333374
+2018,Badajoz,6,Hombres,334679
+2017,Badajoz,6,Hombres,336579
+2016,Badajoz,6,Hombres,338718
+2015,Badajoz,6,Hombres,340525
+2014,Badajoz,6,Hombres,341727
+2013,Badajoz,6,Hombres,342996
+2012,Badajoz,6,Hombres,343428
+2021,Islas Baleares,7,Hombres,590990
+2020,Islas Baleares,7,Hombres,588145
+2019,Islas Baleares,7,Hombres,578751
+2018,Islas Baleares,7,Hombres,570092
+2017,Islas Baleares,7,Hombres,563624
+2016,Islas Baleares,7,Hombres,558124
+2015,Islas Baleares,7,Hombres,555297
+2014,Islas Baleares,7,Hombres,553810
+2013,Islas Baleares,7,Hombres,554043
+2012,Islas Baleares,7,Hombres,552593
+2021,Barcelona,8,Hombres,2785890
+2020,Barcelona,8,Hombres,2777396
+2019,Barcelona,8,Hombres,2741102
+2018,Barcelona,8,Hombres,2706061
+2017,Barcelona,8,Hombres,2682414
+2016,Barcelona,8,Hombres,2666417
+2015,Barcelona,8,Hombres,2657305
+2014,Barcelona,8,Hombres,2662541
+2013,Barcelona,8,Hombres,2688360
+2012,Barcelona,8,Hombres,2703747
+2021,Bizkaia,48,Hombres,557190
+2020,Bizkaia,48,Hombres,557513
+2019,Bizkaia,48,Hombres,553909
+2018,Bizkaia,48,Hombres,551938
+2017,Bizkaia,48,Hombres,550727
+2016,Bizkaia,48,Hombres,550339
+2015,Bizkaia,48,Hombres,550847
+2014,Bizkaia,48,Hombres,551942
+2013,Bizkaia,48,Hombres,556029
+2012,Bizkaia,48,Hombres,559733
+2021,Burgos,9,Hombres,178040
+2020,Burgos,9,Hombres,178589
+2019,Burgos,9,Hombres,178450
+2018,Burgos,9,Hombres,178882
+2017,Burgos,9,Hombres,179586
+2016,Burgos,9,Hombres,180766
+2015,Burgos,9,Hombres,182465
+2014,Burgos,9,Hombres,183831
+2013,Burgos,9,Hombres,185851
+2012,Burgos,9,Hombres,188155
+2021,Cáceres,10,Hombres,193987
+2020,Cáceres,10,Hombres,195325
+2019,Cáceres,10,Hombres,196275
+2018,Cáceres,10,Hombres,197613
+2017,Cáceres,10,Hombres,199287
+2016,Cáceres,10,Hombres,201008
+2015,Cáceres,10,Hombres,202513
+2014,Cáceres,10,Hombres,203688
+2013,Cáceres,10,Hombres,204817
+2012,Cáceres,10,Hombres,206095
+2021,Cádiz,11,Hombres,616595
+2020,Cádiz,11,Hombres,616067
+2019,Cádiz,11,Hombres,614651
+2018,Cádiz,11,Hombres,615670
+2017,Cádiz,11,Hombres,616604
+2016,Cádiz,11,Hombres,617530
+2015,Cádiz,11,Hombres,618625
+2014,Cádiz,11,Hombres,619175
+2013,Cádiz,11,Hombres,620255
+2012,Cádiz,11,Hombres,620463
+2021,Cantabria,39,Hombres,283854
+2020,Cantabria,39,Hombres,283117
+2019,Cantabria,39,Hombres,282808
+2018,Cantabria,39,Hombres,282991
+2017,Cantabria,39,Hombres,283310
+2016,Cantabria,39,Hombres,284039
+2015,Cantabria,39,Hombres,285739
+2014,Cantabria,39,Hombres,287118
+2013,Cantabria,39,Hombres,288490
+2012,Cantabria,39,Hombres,290133
+2021,Castellón,12,Hombres,291857
+2020,Castellón,12,Hombres,290217
+2019,Castellón,12,Hombres,288052
+2018,Castellón,12,Hombres,286385
+2017,Castellón,12,Hombres,285975
+2016,Castellón,12,Hombres,286315
+2015,Castellón,12,Hombres,287653
+2014,Castellón,12,Hombres,289323
+2013,Castellón,12,Hombres,293197
+2012,Castellón,12,Hombres,297669
+2021,Ciudad Real,13,Hombres,244112
+2020,Ciudad Real,13,Hombres,244993
+2019,Ciudad Real,13,Hombres,245314
+2018,Ciudad Real,13,Hombres,247163
+2017,Ciudad Real,13,Hombres,249943
+2016,Ciudad Real,13,Hombres,252399
+2015,Ciudad Real,13,Hombres,255412
+2014,Ciudad Real,13,Hombres,257524
+2013,Ciudad Real,13,Hombres,260099
+2012,Ciudad Real,13,Hombres,262148
+2021,Córdoba,14,Hombres,380859
+2020,Córdoba,14,Hombres,382636
+2019,Córdoba,14,Hombres,382942
+2018,Córdoba,14,Hombres,384813
+2017,Córdoba,14,Hombres,386664
+2016,Córdoba,14,Hombres,388195
+2015,Córdoba,14,Hombres,390068
+2014,Córdoba,14,Hombres,391412
+2013,Córdoba,14,Hombres,393021
+2012,Córdoba,14,Hombres,394505
+2021,A Coruña,15,Hombres,537361
+2020,A Coruña,15,Hombres,538153
+2019,A Coruña,15,Hombres,537547
+2018,A Coruña,15,Hombres,537648
+2017,A Coruña,15,Hombres,538051
+2016,A Coruña,15,Hombres,539747
+2015,A Coruña,15,Hombres,542371
+2014,A Coruña,15,Hombres,544901
+2013,A Coruña,15,Hombres,547666
+2012,A Coruña,15,Hombres,549265
+2021,Cuenca,16,Hombres,98748
+2020,Cuenca,16,Hombres,99329
+2019,Cuenca,16,Hombres,99419
+2018,Cuenca,16,Hombres,100173
+2017,Cuenca,16,Hombres,101107
+2016,Cuenca,16,Hombres,102444
+2015,Cuenca,16,Hombres,103960
+2014,Cuenca,16,Hombres,105239
+2013,Cuenca,16,Hombres,107103
+2012,Cuenca,16,Hombres,108781
+2021,Gipuzkoa,20,Hombres,354493
+2020,Gipuzkoa,20,Hombres,353732
+2019,Gipuzkoa,20,Hombres,351317
+2018,Gipuzkoa,20,Hombres,349174
+2017,Gipuzkoa,20,Hombres,347903
+2016,Gipuzkoa,20,Hombres,347295
+2015,Gipuzkoa,20,Hombres,346758
+2014,Gipuzkoa,20,Hombres,346341
+2013,Gipuzkoa,20,Hombres,346860
+2012,Gipuzkoa,20,Hombres,346871
+2021,Girona,17,Hombres,393369
+2020,Girona,17,Hombres,388901
+2019,Girona,17,Hombres,382938
+2018,Girona,17,Hombres,378366
+2017,Girona,17,Hombres,375447
+2016,Girona,17,Hombres,373263
+2015,Girona,17,Hombres,372416
+2014,Girona,17,Hombres,373920
+2013,Girona,17,Hombres,377132
+2012,Girona,17,Hombres,378879
+2021,Granada,18,Hombres,456393
+2020,Granada,18,Hombres,455015
+2019,Granada,18,Hombres,452882
+2018,Granada,18,Hombres,452443
+2017,Granada,18,Hombres,452594
+2016,Granada,18,Hombres,453281
+2015,Granada,18,Hombres,454277
+2014,Granada,18,Hombres,455722
+2013,Granada,18,Hombres,457350
+2012,Granada,18,Hombres,458053
+2021,Guadalajara,19,Hombres,134874
+2020,Guadalajara,19,Hombres,133338
+2019,Guadalajara,19,Hombres,131445
+2018,Guadalajara,19,Hombres,129955
+2017,Guadalajara,19,Hombres,129488
+2016,Guadalajara,19,Hombres,129167
+2015,Guadalajara,19,Hombres,129547
+2014,Guadalajara,19,Hombres,130083
+2013,Guadalajara,19,Hombres,131393
+2012,Guadalajara,19,Hombres,132200
+2021,Huelva,21,Hombres,261186
+2020,Huelva,21,Hombres,260101
+2019,Huelva,21,Hombres,258731
+2018,Huelva,21,Hombres,258116
+2017,Huelva,21,Hombres,257798
+2016,Huelva,21,Hombres,258088
+2015,Huelva,21,Hombres,258349
+2014,Huelva,21,Hombres,258205
+2013,Huelva,21,Hombres,258223
+2012,Huelva,21,Hombres,257850
+2021,Huesca,22,Hombres,113456
+2020,Huesca,22,Hombres,112658
+2019,Huesca,22,Hombres,111637
+2018,Huesca,22,Hombres,111504
+2017,Huesca,22,Hombres,111632
+2016,Huesca,22,Hombres,112016
+2015,Huesca,22,Hombres,112722
+2014,Huesca,22,Hombres,113391
+2013,Huesca,22,Hombres,114082
+2012,Huesca,22,Hombres,114693
+2021,Jaén,23,Hombres,310930
+2020,Jaén,23,Hombres,312467
+2019,Jaén,23,Hombres,313901
+2018,Jaén,23,Hombres,316153
+2017,Jaén,23,Hombres,318853
+2016,Jaén,23,Hombres,321195
+2015,Jaén,23,Hombres,323983
+2014,Jaén,23,Hombres,326071
+2013,Jaén,23,Hombres,329817
+2012,Jaén,23,Hombres,333760
+2021,León,24,Hombres,220034
+2020,León,24,Hombres,222222
+2019,León,24,Hombres,224133
+2018,León,24,Hombres,226235
+2017,León,24,Hombres,228596
+2016,León,24,Hombres,231135
+2015,León,24,Hombres,233941
+2014,León,24,Hombres,236322
+2013,León,24,Hombres,238892
+2012,León,24,Hombres,241096
+2021,Lleida,25,Hombres,224011
+2020,Lleida,25,Hombres,222906
+2019,Lleida,25,Hombres,219977
+2018,Lleida,25,Hombres,218563
+2017,Lleida,25,Hombres,218048
+2016,Lleida,25,Hombres,217977
+2015,Lleida,25,Hombres,218352
+2014,Lleida,25,Hombres,219195
+2013,Lleida,25,Hombres,221431
+2012,Lleida,25,Hombres,223077
+2021,Lugo,27,Hombres,158003
+2020,Lugo,27,Hombres,158711
+2019,Lugo,27,Hombres,159478
+2018,Lugo,27,Hombres,160627
+2017,Lugo,27,Hombres,161630
+2016,Lugo,27,Hombres,162905
+2015,Lugo,27,Hombres,164285
+2014,Lugo,27,Hombres,165815
+2013,Lugo,27,Hombres,167476
+2012,Lugo,27,Hombres,169176
+2021,Madrid,28,Hombres,3221401
+2020,Madrid,28,Hombres,3219909
+2019,Madrid,28,Hombres,3172045
+2018,Madrid,28,Hombres,3131714
+2017,Madrid,28,Hombres,3099759
+2016,Madrid,28,Hombres,3078169
+2015,Madrid,28,Hombres,3062065
+2014,Madrid,28,Hombres,3062785
+2013,Madrid,28,Hombres,3085179
+2012,Madrid,28,Hombres,3097459
+2021,Málaga,29,Hombres,831211
+2020,Málaga,29,Hombres,825140
+2019,Málaga,29,Hombres,814462
+2018,Málaga,29,Hombres,810253
+2017,Málaga,29,Hombres,808312
+2016,Málaga,29,Hombres,806571
+2015,Málaga,29,Hombres,802584
+2014,Málaga,29,Hombres,797724
+2013,Málaga,29,Hombres,794597
+2012,Málaga,29,Hombres,789052
+2021,Murcia,30,Hombres,760831
+2020,Murcia,30,Hombres,756142
+2019,Murcia,30,Hombres,746926
+2018,Murcia,30,Hombres,741037
+2017,Murcia,30,Hombres,739790
+2016,Murcia,30,Hombres,736540
+2015,Murcia,30,Hombres,735374
+2014,Murcia,30,Hombres,734753
+2013,Murcia,30,Hombres,735778
+2012,Murcia,30,Hombres,737239
+2021,Navarra,31,Hombres,327940
+2020,Navarra,31,Hombres,326911
+2019,Navarra,31,Hombres,323191
+2018,Navarra,31,Hombres,320190
+2017,Navarra,31,Hombres,318413
+2016,Navarra,31,Hombres,317113
+2015,Navarra,31,Hombres,316363
+2014,Navarra,31,Hombres,316505
+2013,Navarra,31,Hombres,317993
+2012,Navarra,31,Hombres,319090
+2021,Ourense,32,Hombres,146630
+2020,Ourense,32,Hombres,147337
+2019,Ourense,32,Hombres,147899
+2018,Ourense,32,Hombres,148852
+2017,Ourense,32,Hombres,149987
+2016,Ourense,32,Hombres,151484
+2015,Ourense,32,Hombres,153495
+2014,Ourense,32,Hombres,155177
+2013,Ourense,32,Hombres,157066
+2012,Ourense,32,Hombres,158517
+2021,Palencia,34,Hombres,78883
+2020,Palencia,34,Hombres,79522
+2019,Palencia,34,Hombres,79880
+2018,Palencia,34,Hombres,80396
+2017,Palencia,34,Hombres,80906
+2016,Palencia,34,Hombres,81539
+2015,Palencia,34,Hombres,82124
+2014,Palencia,34,Hombres,82823
+2013,Palencia,34,Hombres,83596
+2012,Palencia,34,Hombres,84416
+2021,Las Palmas,35,Hombres,563160
+2020,Las Palmas,35,Hombres,563662
+2019,Las Palmas,35,Hombres,559292
+2018,Las Palmas,35,Hombres,554682
+2017,Las Palmas,35,Hombres,552051
+2016,Las Palmas,35,Hombres,549583
+2015,Las Palmas,35,Hombres,548902
+2014,Las Palmas,35,Hombres,547826
+2013,Las Palmas,35,Hombres,548570
+2012,Las Palmas,35,Hombres,546215
+2021,Pontevedra,36,Hombres,457497
+2020,Pontevedra,36,Hombres,457659
+2019,Pontevedra,36,Hombres,456458
+2018,Pontevedra,36,Hombres,456565
+2017,Pontevedra,36,Hombres,457791
+2016,Pontevedra,36,Hombres,458858
+2015,Pontevedra,36,Hombres,460251
+2014,Pontevedra,36,Hombres,461327
+2013,Pontevedra,36,Hombres,462880
+2012,Pontevedra,36,Hombres,463897
+2021,La Rioja,26,Hombres,157763
+2020,La Rioja,26,Hombres,157336
+2019,La Rioja,26,Hombres,155955
+2018,La Rioja,26,Hombres,155582
+2017,La Rioja,26,Hombres,155178
+2016,La Rioja,26,Hombres,155204
+2015,La Rioja,26,Hombres,155527
+2014,La Rioja,26,Hombres,156519
+2013,La Rioja,26,Hombres,158669
+2012,La Rioja,26,Hombres,160318
+2021,Salamanca,37,Hombres,159202
+2020,Salamanca,37,Hombres,160896
+2019,Salamanca,37,Hombres,161557
+2018,Salamanca,37,Hombres,162338
+2017,Salamanca,37,Hombres,163671
+2016,Salamanca,37,Hombres,164995
+2015,Salamanca,37,Hombres,166791
+2014,Salamanca,37,Hombres,168139
+2013,Salamanca,37,Hombres,169856
+2012,Salamanca,37,Hombres,171226
+2021,Santa Cruz de Tenerife,38,Hombres,514700
+2020,Santa Cruz de Tenerife,38,Hombres,514087
+2019,Santa Cruz de Tenerife,38,Hombres,508238
+2018,Santa Cruz de Tenerife,38,Hombres,502805
+2017,Santa Cruz de Tenerife,38,Hombres,498376
+2016,Santa Cruz de Tenerife,38,Hombres,495737
+2015,Santa Cruz de Tenerife,38,Hombres,496494
+2014,Santa Cruz de Tenerife,38,Hombres,496827
+2013,Santa Cruz de Tenerife,38,Hombres,496580
+2012,Santa Cruz de Tenerife,38,Hombres,494731
+2021,Segovia,40,Hombres,77152
+2020,Segovia,40,Hombres,77251
+2019,Segovia,40,Hombres,77261
+2018,Segovia,40,Hombres,77562
+2017,Segovia,40,Hombres,78094
+2016,Segovia,40,Hombres,78795
+2015,Segovia,40,Hombres,79696
+2014,Segovia,40,Hombres,80340
+2013,Segovia,40,Hombres,81577
+2012,Segovia,40,Hombres,82478
+2021,Sevilla,41,Hombres,952623
+2020,Sevilla,41,Hombres,952123
+2019,Sevilla,41,Hombres,949279
+2018,Sevilla,41,Hombres,948341
+2017,Sevilla,41,Hombres,948130
+2016,Sevilla,41,Hombres,948005
+2015,Sevilla,41,Hombres,947965
+2014,Sevilla,41,Hombres,947627
+2013,Sevilla,41,Hombres,948402
+2012,Sevilla,41,Hombres,947826
+2021,Soria,42,Hombres,44939
+2020,Soria,42,Hombres,45207
+2019,Soria,42,Hombres,45038
+2018,Soria,42,Hombres,45231
+2017,Soria,42,Hombres,45413
+2016,Soria,42,Hombres,45863
+2015,Soria,42,Hombres,46373
+2014,Soria,42,Hombres,46841
+2013,Soria,42,Hombres,47429
+2012,Soria,42,Hombres,47977
+2021,Tarragona,43,Hombres,411553
+2020,Tarragona,43,Hombres,407808
+2019,Tarragona,43,Hombres,401245
+2018,Tarragona,43,Hombres,397366
+2017,Tarragona,43,Hombres,396462
+2016,Tarragona,43,Hombres,396507
+2015,Tarragona,43,Hombres,397694
+2014,Tarragona,43,Hombres,399454
+2013,Tarragona,43,Hombres,404395
+2012,Tarragona,43,Hombres,407510
+2021,Teruel,44,Hombres,68143
+2020,Teruel,44,Hombres,67987
+2019,Teruel,44,Hombres,67938
+2018,Teruel,44,Hombres,68111
+2017,Teruel,44,Hombres,68634
+2016,Teruel,44,Hombres,69282
+2015,Teruel,44,Hombres,70152
+2014,Teruel,44,Hombres,71131
+2013,Teruel,44,Hombres,72053
+2012,Teruel,44,Hombres,73240
+2021,Toledo,45,Hombres,357475
+2020,Toledo,45,Hombres,354775
+2019,Toledo,45,Hombres,350717
+2018,Toledo,45,Hombres,348376
+2017,Toledo,45,Hombres,348779
+2016,Toledo,45,Hombres,349534
+2015,Toledo,45,Hombres,351290
+2014,Toledo,45,Hombres,353306
+2013,Toledo,45,Hombres,356858
+2012,Toledo,45,Hombres,358439
+2021,Valencia,46,Hombres,1270661
+2020,Valencia,46,Hombres,1266510
+2019,Valencia,46,Hombres,1251933
+2018,Valencia,46,Hombres,1247517
+2017,Valencia,46,Hombres,1242756
+2016,Valencia,46,Hombres,1241307
+2015,Valencia,46,Hombres,1243543
+2014,Valencia,46,Hombres,1245679
+2013,Valencia,46,Hombres,1256654
+2012,Valencia,46,Hombres,1265539
+2021,Valladolid,47,Hombres,252999
+2020,Valladolid,47,Hombres,253858
+2019,Valladolid,47,Hombres,253935
+2018,Valladolid,47,Hombres,254236
+2017,Valladolid,47,Hombres,255617
+2016,Valladolid,47,Hombres,256523
+2015,Valladolid,47,Hombres,258060
+2014,Valladolid,47,Hombres,258948
+2013,Valladolid,47,Hombres,260193
+2012,Valladolid,47,Hombres,261249
+2021,Zamora,49,Hombres,83824
+2020,Zamora,49,Hombres,84836
+2019,Zamora,49,Hombres,85823
+2018,Zamora,49,Hombres,87029
+2017,Zamora,49,Hombres,88386
+2016,Zamora,49,Hombres,89787
+2015,Zamora,49,Hombres,91253
+2014,Zamora,49,Hombres,92405
+2013,Zamora,49,Hombres,93834
+2012,Zamora,49,Hombres,95062
+2021,Zaragoza,50,Hombres,476664
+2020,Zaragoza,50,Hombres,476634
+2019,Zaragoza,50,Hombres,472749
+2018,Zaragoza,50,Hombres,469652
+2017,Zaragoza,50,Hombres,470488
+2016,Zaragoza,50,Hombres,471628
+2015,Zaragoza,50,Hombres,474997
+2014,Zaragoza,50,Hombres,476467
+2013,Zaragoza,50,Hombres,479277
+2012,Zaragoza,50,Hombres,481700
+2021,Albacete,2,Mujeres,193239
+2020,Albacete,2,Mujeres,193925
+2019,Albacete,2,Mujeres,194012
+2018,Albacete,2,Mujeres,194543
+2017,Albacete,2,Mujeres,195160
+2016,Albacete,2,Mujeres,195964
+2015,Albacete,2,Mujeres,197058
+2014,Albacete,2,Mujeres,198051
+2013,Albacete,2,Mujeres,199483
+2012,Albacete,2,Mujeres,200505
+2021,Alicante,3,Mujeres,951802
+2020,Alicante,3,Mujeres,946284
+2019,Alicante,3,Mujeres,935052
+2018,Alicante,3,Mujeres,926955
+2017,Alicante,3,Mujeres,924826
+2016,Alicante,3,Mujeres,924448
+2015,Alicante,3,Mujeres,924234
+2014,Alicante,3,Mujeres,927905
+2013,Alicante,3,Mujeres,929489
+2012,Alicante,3,Mujeres,928757
+2021,Almería,4,Mujeres,357607
+2020,Almería,4,Mujeres,354779
+2019,Almería,4,Mujeres,350238
+2018,Almería,4,Mujeres,347630
+2017,Almería,4,Mujeres,346588
+2016,Almería,4,Mujeres,344505
+2015,Almería,4,Mujeres,342171
+2014,Almería,4,Mujeres,340517
+2013,Almería,4,Mujeres,340742
+2012,Almería,4,Mujeres,338341
+2021,Álava,1,Mujeres,169186
+2020,Álava,1,Mujeres,168950
+2019,Álava,1,Mujeres,167419
+2018,Álava,1,Mujeres,166299
+2017,Álava,1,Mujeres,164786
+2016,Álava,1,Mujeres,163559
+2015,Álava,1,Mujeres,162651
+2014,Álava,1,Mujeres,161815
+2013,Álava,1,Mujeres,161257
+2012,Álava,1,Mujeres,161015
+2021,Asturias,33,Mujeres,528931
+2020,Asturias,33,Mujeres,531911
+2019,Asturias,33,Mujeres,533543
+2018,Asturias,33,Mujeres,536287
+2017,Asturias,33,Mujeres,539583
+2016,Asturias,33,Mujeres,542864
+2015,Asturias,33,Mujeres,547302
+2014,Asturias,33,Mujeres,551639
+2013,Asturias,33,Mujeres,555700
+2012,Asturias,33,Mujeres,558801
+2021,Ávila,5,Mujeres,79014
+2020,Ávila,5,Mujeres,78952
+2019,Ávila,5,Mujeres,79142
+2018,Ávila,5,Mujeres,79497
+2017,Ávila,5,Mujeres,80254
+2016,Ávila,5,Mujeres,81132
+2015,Ávila,5,Mujeres,82077
+2014,Ávila,5,Mujeres,82835
+2013,Ávila,5,Mujeres,83869
+2012,Ávila,5,Mujeres,84748
+2021,Badajoz,6,Mujeres,339236
+2020,Badajoz,6,Mujeres,339643
+2019,Badajoz,6,Mujeres,340010
+2018,Badajoz,6,Mujeres,341063
+2017,Badajoz,6,Mujeres,342463
+2016,Badajoz,6,Mujeres,344252
+2015,Badajoz,6,Mujeres,345725
+2014,Badajoz,6,Mujeres,346970
+2013,Badajoz,6,Mujeres,347893
+2012,Badajoz,6,Mujeres,348413
+2021,Islas Baleares,7,Mujeres,592425
+2020,Islas Baleares,7,Mujeres,588671
+2019,Islas Baleares,7,Mujeres,579177
+2018,Islas Baleares,7,Mujeres,571141
+2017,Islas Baleares,7,Mujeres,564868
+2016,Islas Baleares,7,Mujeres,559229
+2015,Islas Baleares,7,Mujeres,555705
+2014,Islas Baleares,7,Mujeres,552807
+2013,Islas Baleares,7,Mujeres,551088
+2012,Islas Baleares,7,Mujeres,548122
+2021,Barcelona,8,Mujeres,2916372
+2020,Barcelona,8,Mujeres,2912975
+2019,Barcelona,8,Mujeres,2881602
+2018,Barcelona,8,Mujeres,2850212
+2017,Barcelona,8,Mujeres,2824998
+2016,Barcelona,8,Mujeres,2806509
+2015,Barcelona,8,Mujeres,2795838
+2014,Barcelona,8,Mujeres,2797221
+2013,Barcelona,8,Mujeres,2811720
+2012,Barcelona,8,Mujeres,2814529
+2021,Bizkaia,48,Mujeres,596445
+2020,Bizkaia,48,Mujeres,597183
+2019,Bizkaia,48,Mujeres,593680
+2018,Bizkaia,48,Mujeres,591804
+2017,Bizkaia,48,Mujeres,590837
+2016,Bizkaia,48,Mujeres,589852
+2015,Bizkaia,48,Mujeres,590553
+2014,Bizkaia,48,Mujeres,591179
+2013,Bizkaia,48,Mujeres,594003
+2012,Bizkaia,48,Mujeres,595976
+2021,Burgos,9,Mujeres,178002
+2020,Burgos,9,Mujeres,178532
+2019,Burgos,9,Mujeres,178157
+2018,Burgos,9,Mujeres,178283
+2017,Burgos,9,Mujeres,178830
+2016,Burgos,9,Mujeres,179806
+2015,Burgos,9,Mujeres,180863
+2014,Burgos,9,Mujeres,181711
+2013,Burgos,9,Mujeres,182933
+2012,Burgos,9,Mujeres,184035
+2021,Cáceres,10,Mujeres,196557
+2020,Cáceres,10,Mujeres,197600
+2019,Cáceres,10,Mujeres,198266
+2018,Cáceres,10,Mujeres,199366
+2017,Cáceres,10,Mujeres,200779
+2016,Cáceres,10,Mujeres,202175
+2015,Cáceres,10,Mujeres,203454
+2014,Cáceres,10,Mujeres,204323
+2013,Cáceres,10,Mujeres,205318
+2012,Cáceres,10,Mujeres,206406
+2021,Cádiz,11,Mujeres,633278
+2020,Cádiz,11,Mujeres,631093
+2019,Cádiz,11,Mujeres,628535
+2018,Cádiz,11,Mujeres,628067
+2017,Cádiz,11,Mujeres,627486
+2016,Cádiz,11,Mujeres,626945
+2015,Cádiz,11,Mujeres,626942
+2014,Cádiz,11,Mujeres,626329
+2013,Cádiz,11,Mujeres,626129
+2012,Cádiz,11,Mujeres,624899
+2021,Cantabria,39,Mujeres,300854
+2020,Cantabria,39,Mujeres,299894
+2019,Cantabria,39,Mujeres,299181
+2018,Cantabria,39,Mujeres,298542
+2017,Cantabria,39,Mujeres,298111
+2016,Cantabria,39,Mujeres,298455
+2015,Cantabria,39,Mujeres,299445
+2014,Cantabria,39,Mujeres,300373
+2013,Cantabria,39,Mujeres,301299
+2012,Cantabria,39,Mujeres,302254
+2021,Castellón,12,Mujeres,295775
+2020,Castellón,12,Mujeres,293984
+2019,Castellón,12,Mujeres,291540
+2018,Castellón,12,Mujeres,289957
+2017,Castellón,12,Mujeres,289458
+2016,Castellón,12,Mujeres,289231
+2015,Castellón,12,Mujeres,290085
+2014,Castellón,12,Mujeres,291026
+2013,Castellón,12,Mujeres,293499
+2012,Castellón,12,Mujeres,296255
+2021,Ciudad Real,13,Mujeres,248788
+2020,Ciudad Real,13,Mujeres,249824
+2019,Ciudad Real,13,Mujeres,250372
+2018,Ciudad Real,13,Mujeres,252005
+2017,Ciudad Real,13,Mujeres,254460
+2016,Ciudad Real,13,Mujeres,256230
+2015,Ciudad Real,13,Mujeres,258740
+2014,Ciudad Real,13,Mujeres,260508
+2013,Ciudad Real,13,Mujeres,262535
+2012,Ciudad Real,13,Mujeres,264134
+2021,Córdoba,14,Mujeres,396763
+2020,Córdoba,14,Mujeres,398189
+2019,Córdoba,14,Mujeres,398040
+2018,Córdoba,14,Mujeres,399266
+2017,Córdoba,14,Mujeres,401071
+2016,Córdoba,14,Mujeres,402554
+2015,Córdoba,14,Mujeres,404291
+2014,Córdoba,14,Mujeres,405418
+2013,Córdoba,14,Mujeres,406913
+2012,Córdoba,14,Mujeres,408212
+2021,A Coruña,15,Mujeres,583140
+2020,A Coruña,15,Mujeres,583841
+2019,A Coruña,15,Mujeres,582885
+2018,A Coruña,15,Mujeres,582426
+2017,A Coruña,15,Mujeres,582251
+2016,A Coruña,15,Mujeres,583268
+2015,A Coruña,15,Mujeres,585225
+2014,A Coruña,15,Mujeres,587695
+2013,A Coruña,15,Mujeres,590224
+2012,A Coruña,15,Mujeres,591913
+2021,Cuenca,16,Mujeres,97762
+2020,Cuenca,16,Mujeres,98208
+2019,Cuenca,16,Mujeres,98198
+2018,Cuenca,16,Mujeres,98749
+2017,Cuenca,16,Mujeres,99424
+2016,Cuenca,16,Mujeres,100420
+2015,Cuenca,16,Mujeres,101704
+2014,Cuenca,16,Mujeres,102792
+2013,Cuenca,16,Mujeres,104253
+2012,Cuenca,16,Mujeres,105971
+2021,Gipuzkoa,20,Mujeres,371015
+2020,Gipuzkoa,20,Mujeres,370615
+2019,Gipuzkoa,20,Mujeres,368296
+2018,Gipuzkoa,20,Mujeres,366575
+2017,Gipuzkoa,20,Mujeres,365227
+2016,Gipuzkoa,20,Mujeres,363966
+2015,Gipuzkoa,20,Mujeres,363008
+2014,Gipuzkoa,20,Mujeres,362334
+2013,Gipuzkoa,20,Mujeres,362183
+2012,Gipuzkoa,20,Mujeres,361550
+2021,Girona,17,Mujeres,391572
+2020,Girona,17,Mujeres,387797
+2019,Girona,17,Mujeres,382538
+2018,Girona,17,Mujeres,378156
+2017,Girona,17,Mujeres,375021
+2016,Girona,17,Mujeres,372534
+2015,Girona,17,Mujeres,371015
+2014,Girona,17,Mujeres,371269
+2013,Girona,17,Mujeres,372890
+2012,Girona,17,Mujeres,372721
+2021,Granada,18,Mujeres,468653
+2020,Granada,18,Mujeres,466951
+2019,Granada,18,Mujeres,463997
+2018,Granada,18,Mujeres,462697
+2017,Granada,18,Mujeres,462186
+2016,Granada,18,Mujeres,462425
+2015,Granada,18,Mujeres,463269
+2014,Granada,18,Mujeres,463659
+2013,Granada,18,Mujeres,464159
+2012,Granada,18,Mujeres,464408
+2021,Guadalajara,19,Mujeres,131095
+2020,Guadalajara,19,Mujeres,129647
+2019,Guadalajara,19,Mujeres,127821
+2018,Guadalajara,19,Mujeres,126292
+2017,Guadalajara,19,Mujeres,125754
+2016,Guadalajara,19,Mujeres,125024
+2015,Guadalajara,19,Mujeres,124911
+2014,Guadalajara,19,Mujeres,124992
+2013,Guadalajara,19,Mujeres,125432
+2012,Guadalajara,19,Mujeres,125531
+2021,Huelva,21,Mujeres,266068
+2020,Huelva,21,Mujeres,265232
+2019,Huelva,21,Mujeres,263407
+2018,Huelva,21,Mujeres,262329
+2017,Huelva,21,Mujeres,261346
+2016,Huelva,21,Mujeres,261998
+2015,Huelva,21,Mujeres,262491
+2014,Huelva,21,Mujeres,262248
+2013,Huelva,21,Mujeres,262104
+2012,Huelva,21,Mujeres,262130
+2021,Huesca,22,Mujeres,110539
+2020,Huesca,22,Mujeres,110109
+2019,Huesca,22,Mujeres,109359
+2018,Huesca,22,Mujeres,109149
+2017,Huesca,22,Mujeres,109117
+2016,Huesca,22,Mujeres,109479
+2015,Huesca,22,Mujeres,109955
+2014,Huesca,22,Mujeres,110311
+2013,Huesca,22,Mujeres,110694
+2012,Huesca,22,Mujeres,111128
+2021,Jaén,23,Mujeres,316638
+2020,Jaén,23,Mujeres,318057
+2019,Jaén,23,Mujeres,319474
+2018,Jaén,23,Mujeres,321516
+2017,Jaén,23,Mujeres,323662
+2016,Jaén,23,Mujeres,325812
+2015,Jaén,23,Mujeres,328334
+2014,Jaén,23,Mujeres,330091
+2013,Jaén,23,Mujeres,331830
+2012,Jaén,23,Mujeres,333500
+2021,León,24,Mujeres,232401
+2020,León,24,Mujeres,234475
+2019,León,24,Mujeres,236114
+2018,León,24,Mujeres,238041
+2017,León,24,Mujeres,240041
+2016,León,24,Mujeres,242439
+2015,León,24,Mujeres,245163
+2014,León,24,Mujeres,247359
+2013,León,24,Mujeres,249864
+2012,León,24,Mujeres,251727
+2021,Lleida,25,Mujeres,215247
+2020,Lleida,25,Mujeres,214602
+2019,Lleida,25,Mujeres,212940
+2018,Lleida,25,Mujeres,212087
+2017,Lleida,25,Mujeres,211773
+2016,Lleida,25,Mujeres,211829
+2015,Lleida,25,Mujeres,212692
+2014,Lleida,25,Mujeres,213202
+2013,Lleida,25,Mujeres,214407
+2012,Lleida,25,Mujeres,215135
+2021,Lugo,27,Mujeres,168065
+2020,Lugo,27,Mujeres,168862
+2019,Lugo,27,Mujeres,169592
+2018,Lugo,27,Mujeres,170501
+2017,Lugo,27,Mujeres,171522
+2016,Lugo,27,Mujeres,172847
+2015,Lugo,27,Mujeres,174145
+2014,Lugo,27,Mujeres,175680
+2013,Lugo,27,Mujeres,177127
+2012,Lugo,27,Mujeres,178452
+2021,Madrid,28,Mujeres,3505239
+2020,Madrid,28,Mujeres,3500401
+2019,Madrid,28,Mujeres,3446033
+2018,Madrid,28,Mujeres,3398209
+2017,Madrid,28,Mujeres,3359538
+2016,Madrid,28,Mujeres,3333297
+2015,Madrid,28,Mujeres,3313672
+2014,Madrid,28,Mujeres,3309768
+2013,Madrid,28,Mujeres,3326346
+2012,Madrid,28,Mujeres,3328114
+2021,Málaga,29,Mujeres,865744
+2020,Málaga,29,Mujeres,858240
+2019,Málaga,29,Mujeres,845886
+2018,Málaga,29,Mujeres,839815
+2017,Málaga,29,Mujeres,835835
+2016,Málaga,29,Mujeres,831807
+2015,Málaga,29,Mujeres,826595
+2014,Málaga,29,Mujeres,820377
+2013,Málaga,29,Mujeres,816131
+2012,Málaga,29,Mujeres,809085
+2021,Murcia,30,Mujeres,757448
+2020,Murcia,30,Mujeres,752935
+2019,Murcia,30,Mujeres,744386
+2018,Murcia,30,Mujeres,737681
+2017,Murcia,30,Mujeres,735485
+2016,Murcia,30,Mujeres,731827
+2015,Murcia,30,Mujeres,729821
+2014,Murcia,30,Mujeres,727981
+2013,Murcia,30,Mujeres,726493
+2012,Murcia,30,Mujeres,724690
+2021,Navarra,31,Mujeres,334092
+2020,Navarra,31,Mujeres,332996
+2019,Navarra,31,Mujeres,329606
+2018,Navarra,31,Mujeres,326150
+2017,Navarra,31,Mujeres,323662
+2016,Navarra,31,Mujeres,321809
+2015,Navarra,31,Mujeres,320954
+2014,Navarra,31,Mujeres,320594
+2013,Navarra,31,Mujeres,321096
+2012,Navarra,31,Mujeres,320933
+2021,Ourense,32,Mujeres,158667
+2020,Ourense,32,Mujeres,159488
+2019,Ourense,32,Mujeres,159865
+2018,Ourense,32,Mujeres,160438
+2017,Ourense,32,Mujeres,161398
+2016,Ourense,32,Mujeres,162992
+2015,Ourense,32,Mujeres,164793
+2014,Ourense,32,Mujeres,166295
+2013,Ourense,32,Mujeres,168074
+2012,Ourense,32,Mujeres,169670
+2021,Palencia,34,Mujeres,80263
+2020,Palencia,34,Mujeres,80835
+2019,Palencia,34,Mujeres,81173
+2018,Palencia,34,Mujeres,81668
+2017,Palencia,34,Mujeres,82315
+2016,Palencia,34,Mujeres,82882
+2015,Palencia,34,Mujeres,83696
+2014,Palencia,34,Mujeres,84414
+2013,Palencia,34,Mujeres,85074
+2012,Palencia,34,Mujeres,85885
+2021,Las Palmas,35,Mujeres,568199
+2020,Las Palmas,35,Mujeres,567533
+2019,Las Palmas,35,Mujeres,562394
+2018,Las Palmas,35,Mujeres,557191
+2017,Las Palmas,35,Mujeres,553528
+2016,Las Palmas,35,Mujeres,550311
+2015,Las Palmas,35,Mujeres,548676
+2014,Las Palmas,35,Mujeres,547030
+2013,Las Palmas,35,Mujeres,546305
+2012,Las Palmas,35,Mujeres,542836
+2021,Pontevedra,36,Mujeres,488814
+2020,Pontevedra,36,Mujeres,488554
+2019,Pontevedra,36,Mujeres,486486
+2018,Pontevedra,36,Mujeres,485991
+2017,Pontevedra,36,Mujeres,486325
+2016,Pontevedra,36,Mujeres,486994
+2015,Pontevedra,36,Mujeres,488236
+2014,Pontevedra,36,Mujeres,488927
+2013,Pontevedra,36,Mujeres,490207
+2012,Pontevedra,36,Mujeres,491025
+2021,La Rioja,26,Mujeres,161681
+2020,La Rioja,26,Mujeres,161367
+2019,La Rioja,26,Mujeres,160012
+2018,La Rioja,26,Mujeres,159308
+2017,La Rioja,26,Mujeres,158958
+2016,La Rioja,26,Mujeres,158821
+2015,La Rioja,26,Mujeres,158930
+2014,La Rioja,26,Mujeres,159217
+2013,La Rioja,26,Mujeres,160150
+2012,La Rioja,26,Mujeres,160633
+2021,Salamanca,37,Mujeres,168533
+2020,Salamanca,37,Mujeres,169938
+2019,Salamanca,37,Mujeres,170487
+2018,Salamanca,37,Mujeres,171162
+2017,Salamanca,37,Mujeres,172112
+2016,Salamanca,37,Mujeres,173313
+2015,Salamanca,37,Mujeres,174844
+2014,Salamanca,37,Mujeres,175965
+2013,Salamanca,37,Mujeres,177184
+2012,Salamanca,37,Mujeres,178399
+2021,Santa Cruz de Tenerife,38,Mujeres,532865
+2020,Santa Cruz de Tenerife,38,Mujeres,530958
+2019,Santa Cruz de Tenerife,38,Mujeres,523392
+2018,Santa Cruz de Tenerife,38,Mujeres,516903
+2017,Santa Cruz de Tenerife,38,Mujeres,511278
+2016,Santa Cruz de Tenerife,38,Mujeres,507805
+2015,Santa Cruz de Tenerife,38,Mujeres,507247
+2014,Santa Cruz de Tenerife,38,Mujeres,506472
+2013,Santa Cruz de Tenerife,38,Mujeres,504881
+2012,Santa Cruz de Tenerife,38,Mujeres,502146
+2021,Segovia,40,Mujeres,76474
+2020,Segovia,40,Mujeres,76390
+2019,Segovia,40,Mujeres,76310
+2018,Segovia,40,Mujeres,76421
+2017,Segovia,40,Mujeres,76760
+2016,Segovia,40,Mujeres,77196
+2015,Segovia,40,Mujeres,77882
+2014,Segovia,40,Mujeres,78458
+2013,Segovia,40,Mujeres,79628
+2012,Segovia,40,Mujeres,80458
+2021,Sevilla,41,Mujeres,997433
+2020,Sevilla,41,Mujeres,995725
+2019,Sevilla,41,Mujeres,991912
+2018,Sevilla,41,Mujeres,989666
+2017,Sevilla,41,Mujeres,988605
+2016,Sevilla,41,Mujeres,987585
+2015,Sevilla,41,Mujeres,987170
+2014,Sevilla,41,Mujeres,986431
+2013,Sevilla,41,Mujeres,986621
+2012,Sevilla,41,Mujeres,984746
+2021,Soria,42,Mujeres,43857
+2020,Soria,42,Mujeres,44095
+2019,Soria,42,Mujeres,43970
+2018,Soria,42,Mujeres,44098
+2017,Soria,42,Mujeres,44201
+2016,Soria,42,Mujeres,44597
+2015,Soria,42,Mujeres,45081
+2014,Soria,42,Mujeres,45533
+2013,Soria,42,Mujeres,45944
+2012,Soria,42,Mujeres,46486
+2021,Tarragona,43,Mujeres,411882
+2020,Tarragona,43,Mujeres,407938
+2019,Tarragona,43,Mujeres,402283
+2018,Tarragona,43,Mujeres,398553
+2017,Tarragona,43,Mujeres,396615
+2016,Tarragona,43,Mujeres,395656
+2015,Tarragona,43,Mujeres,395578
+2014,Tarragona,43,Mujeres,396031
+2013,Tarragona,43,Mujeres,398329
+2012,Tarragona,43,Mujeres,399394
+2021,Teruel,44,Mujeres,66116
+2020,Teruel,44,Mujeres,66098
+2019,Teruel,44,Mujeres,66087
+2018,Teruel,44,Mujeres,66338
+2017,Teruel,44,Mujeres,66690
+2016,Teruel,44,Mujeres,67095
+2015,Teruel,44,Mujeres,67719
+2014,Teruel,44,Mujeres,68339
+2013,Teruel,44,Mujeres,69039
+2012,Teruel,44,Mujeres,69678
+2021,Toledo,45,Mujeres,352925
+2020,Toledo,45,Mujeres,350017
+2019,Toledo,45,Mujeres,345673
+2018,Toledo,45,Mujeres,342748
+2017,Toledo,45,Mujeres,342242
+2016,Toledo,45,Mujeres,342253
+2015,Toledo,45,Mujeres,343039
+2014,Toledo,45,Mujeres,344299
+2013,Toledo,45,Mujeres,346708
+2012,Toledo,45,Mujeres,347143
+2021,Valencia,46,Mujeres,1322582
+2020,Valencia,46,Mujeres,1318144
+2019,Valencia,46,Mujeres,1302399
+2018,Valencia,46,Mujeres,1295406
+2017,Valencia,46,Mujeres,1288917
+2016,Valencia,46,Mujeres,1285162
+2015,Valencia,46,Mujeres,1285233
+2014,Valencia,46,Mujeres,1285949
+2013,Valencia,46,Mujeres,1292282
+2012,Valencia,46,Mujeres,1296975
+2021,Valladolid,47,Mujeres,266381
+2020,Valladolid,47,Mujeres,267046
+2019,Valladolid,47,Mujeres,266548
+2018,Valladolid,47,Mujeres,266694
+2017,Valladolid,47,Mujeres,267368
+2016,Valladolid,47,Mujeres,268146
+2015,Valladolid,47,Mujeres,269139
+2014,Valladolid,47,Mujeres,269538
+2013,Valladolid,47,Mujeres,270655
+2012,Valladolid,47,Mujeres,271394
+2021,Zamora,49,Mujeres,85341
+2020,Zamora,49,Mujeres,86465
+2019,Zamora,49,Mujeres,87495
+2018,Zamora,49,Mujeres,88633
+2017,Zamora,49,Mujeres,89857
+2016,Zamora,49,Mujeres,91270
+2015,Zamora,49,Mujeres,92632
+2014,Zamora,49,Mujeres,93712
+2013,Zamora,49,Mujeres,95044
+2012,Zamora,49,Mujeres,96244
+2021,Zaragoza,50,Mujeres,497020
+2020,Zaragoza,50,Mujeres,497106
+2019,Zaragoza,50,Mujeres,492924
+2018,Zaragoza,50,Mujeres,488739
+2017,Zaragoza,50,Mujeres,488850
+2016,Zaragoza,50,Mujeres,488542
+2015,Zaragoza,50,Mujeres,490055
+2014,Zaragoza,50,Mujeres,491074
+2013,Zaragoza,50,Mujeres,492530
+2012,Zaragoza,50,Mujeres,493351
